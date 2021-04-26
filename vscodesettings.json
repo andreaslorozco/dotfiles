@@ -1,0 +1,33 @@
+// REGULAR
+ 
+// {
+//     "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+//     "editor.fontLigatures": true,
+//     "editor.tabSize": 2,
+//     "editor.fontSize": 12,
+//     "terminal.integrated.fontSize": 12,
+//     "terminal.integrated.fontFamily": "'Cascadia Code PL'",
+//     // Prettier related conf
+//     "editor.defaultFormatter": "esbenp.prettier-vscode",
+//     "editor.formatOnSave": true,
+//     "prettier.requireConfig": true
+// }
+ 
+// STREAM / COURSES
+ 
+{
+  "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16,
+  "terminal.integrated.fontSize": 16,
+  "window.zoomLevel": 2,
+  "editor.cursorBlinking": "solid",
+  "editor.renderLineHighlightOnlyWhenFocus": true,
+  "terminal.integrated.fontFamily": "'Cascadia Code PL'",
+  "editor.tabSize": 2,
+  "explorer.confirmDragAndDrop": false,
+  // Prettier related conf
+  "editor.formatOnSave": true,
+  "prettier.requireConfig": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
